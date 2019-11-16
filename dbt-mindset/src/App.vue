@@ -33,7 +33,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://github.com/dbtmindset/dbtmindset.github.io/raw/master/src/assets/fog-rock-stand.jpg");
+  background-image: url("https://github.com/dbtmindset/dbtmindset.github.io/raw/master/fog-rock-stack.jpg");
 }
 .content {
   margin-left:100px;
