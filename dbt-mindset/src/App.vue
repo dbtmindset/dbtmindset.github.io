@@ -4,6 +4,7 @@
       <h1>DBT Mindset</h1>
     </div>
     <div class="items">
+      <a href="https://twitter.com/dbtmindset"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dbtmindset?style=social"></a>
       <h2><a href="/flashcards/">DBT Flashcards</a></h2>
     </div>
     <div class="content">
@@ -286,13 +287,13 @@ body, html {
   text-align: center;
 }
 .content {
-  margin-left:100px;
+  cursor: pointer;
 }
 a:link {
   color: white;
 }
 a:visited {
-  color: gray;
+  color: white;
 }
 a:hover {
   color: gray;
