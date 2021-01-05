@@ -9,7 +9,7 @@
     "package": "npm run build; rm -fr ../js; rm -fr ../css; cd dist; mv * ../..;"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^3.3.2",
     "vue": "^2.6.10",
     "vue-wordcloud": "^1.1.1"
